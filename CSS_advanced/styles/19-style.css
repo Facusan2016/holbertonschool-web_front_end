@@ -151,7 +151,7 @@ a:active{
 
 .nav .nav-link{
     display: block;
-    padding: 0.5rem 1rem;
+    padding: .5rem 1rem;
 }
 
 .nav .nav-link:hover{
@@ -161,6 +161,7 @@ a:active{
 ul[row]{
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 
 .col-1-3{
